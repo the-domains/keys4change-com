@@ -1,14 +1,28 @@
+name: Keys4Change.com
+favicon: null
 layout_spectrum: 1
+typography_spectrum: 0.7903226
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0.903455
-  lightness: 0.7311828
-  rhythmicContrast: 0.8351254
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-typography_spectrum: 0.7903226
-name: Keys4Change.com
+  brandStrength: 0.903455
+  lightness: 0.7311828
+  saturation: 1
+  rhythmicContrast: 0.8351254
+purpose: []
