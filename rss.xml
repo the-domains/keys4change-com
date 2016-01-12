@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Keys4Change]]></title>
+        <description><![CDATA[Keys4Change]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Jan 2016 18:55:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Keys4Change relaunching]]></title>
+            <description><![CDATA[<article><h1>Keys4Change relaunching</h1><p>Keys4Change is relaunching this spring to bring you first-class socialite events, performances, experiences all for the cause of health, wealth and human prosperity.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/46c9ad689f75f90b6296c92d2688886df025e8b7.jpg"></article>]]></description>
+            <link>undefinedkeys4change-relaunching/index.html</link>
+            <guid isPermaLink="false">59494517-65ea-4938-af37-09cf42a8b008</guid>
+            <pubDate>Tue, 12 Jan 2016 18:55:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
