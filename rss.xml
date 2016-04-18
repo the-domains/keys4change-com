@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Keys4Change]]></title>
         <description><![CDATA[Keys4Change]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.keys4change.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 18:55:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Apr 2016 00:55:59 GMT</lastBuildDate>
+        <atom:link href="http://www.keys4change.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c25d4446-b30e-4e81-a73d-e26ad298b8fd.jpg">]]></description>
+            <link>http://www.keys4change.com/our-mission-is-funding-products-and-ideas-that-embody-keys/index.html</link>
+            <guid isPermaLink="false">b0b6e150-fa42-40cd-8032-cf04a4aa84a3</guid>
+            <pubDate>Mon, 18 Apr 2016 00:55:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Keys4Change relaunching]]></title>
             <description><![CDATA[<article><h1>Keys4Change relaunching</h1><p>Keys4Change is relaunching this spring to bring you first-class socialite events, performances, experiences all for the cause of health, wealth and human prosperity.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/46c9ad689f75f90b6296c92d2688886df025e8b7.jpg"></article>]]></description>
-            <link>undefinedkeys4change-relaunching/index.html</link>
+            <link>http://www.keys4change.com/keys4change-relaunching/index.html</link>
             <guid isPermaLink="false">59494517-65ea-4938-af37-09cf42a8b008</guid>
             <pubDate>Tue, 12 Jan 2016 18:55:43 GMT</pubDate>
         </item>
